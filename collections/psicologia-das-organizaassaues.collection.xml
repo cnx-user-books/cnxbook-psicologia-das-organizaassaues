@@ -1,19 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pt">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pt" authors="Paulo Xavier">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10228</md:content-id>
-    <md:title>Psicologia das OrganizaÃ§Ãµes</md:title>
+    <md:title>Psicologia das Organiza&#xC3;&#xA7;&#xC3;&#xB5;es</md:title>
     <md:language>pt</md:language>
     <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
     <md:uuid>fd818725-39fc-48aa-820c-1abb06fee2d1</md:uuid>
-<md:slug>psicologia-das-organizaassaues</md:slug>
-</metadata>
+    <md:slug>psicologia-das-organizaassaues</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
-      <md:title>1. Psicologia das Organizações</md:title>
+      <md:title>1. Psicologia das Organiza&#xE7;&#xF5;es</md:title>
       <col:content/>
     </col:subcollection>
     <col:subcollection>
-      <md:title>2. Diagnóstico Organizacional</md:title>
+      <md:title>2. Diagn&#xF3;stico Organizacional</md:title>
       <col:content/>
     </col:subcollection>
     <col:subcollection>
